@@ -40,6 +40,7 @@ public class VETDOG {
         
         VistaLogin vistaLogin = new VistaLogin();
         vistaLogin.setVisible(true);
+        
     }
     
 }
