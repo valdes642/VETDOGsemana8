@@ -15,7 +15,7 @@ public class VistaLogin extends javax.swing.JFrame {
      */
     public VistaLogin() {
         initComponents();
-        setTitle("Veterinaria - Login 🐶 012012010");
+        setTitle("Veterinaria - Login2025");
         // tamaño pantalla
         this.setSize(500, 500);
         
