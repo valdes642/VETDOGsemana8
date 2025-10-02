@@ -15,6 +15,7 @@ public class Nosotros extends javax.swing.JFrame {
      */
     public Nosotros() {
         initComponents();
+        setTitle("hola");
     }
 
     /**
